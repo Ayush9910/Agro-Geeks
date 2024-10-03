@@ -31,9 +31,5 @@
 * PHP
 * BOOTSTRAP
 
-### Made By
-<a href = "https://www.linkedin.com/in/uttam19/" >Uttam Kumar </a><br>
-<a href = "https://www.linkedin.com/in/shashank-jha-9bb266229/" >Shashank Jha</a> <br>
-<a href = "https://www.linkedin.com/in/shaily-priya-4b551a223/" >Shaily Priya</a> <br>
-<a href = "https://www.linkedin.com/in/abhijeet-mishra-179613236/" >Abhijeet Mishra </a><br>
+
 
